@@ -1,0 +1,21 @@
+<svg width="593.6139" height="540.80203" xmlns="http://www.w3.org/2000/svg">
+ <title>season_change</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="542.80203" width="595.6139" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_10" fill="#3d7bd9" r="210.503586" cy="301.39327" cx="288.05561"/>
+  <circle id="svg_11" fill="#fff" r="193.077789" cy="301.39327" cx="288.05561"/>
+  <circle id="svg_12" fill="#4182a8" r="25.790171" cy="302.0903" cx="287.35857"/>
+  <rect id="svg_13" fill="#3d7bd9" height="20.91095" width="11.15251" y="118.07392" x="281.78232"/>
+  <rect id="svg_14" fill="#3d7bd9" height="20.91095" width="11.15251" y="465.19572" x="281.78232"/>
+  <rect id="svg_15" fill="#3d7bd9" transform="rotate(90 608.4869384765626,-136.4004211425781) " height="20.91095" width="11.15251" y="347.833389" x="1041.401408"/>
+  <rect id="svg_16" fill="#3d7bd9" transform="rotate(90 955.6087646484375,-483.52221679687494) " height="20.91095" width="11.15251" y="0.711593" x="1735.645035"/>
+  <polygon id="svg_17" fill="#4182a8" points="279.92401123046875,313.2860107421875 289.4549865722656,291.4930114746094 408.8800048828125,357.635009765625 279.92401123046875,313.2860107421875 "/>
+  <rect id="svg_18" fill="#3d7bd9" height="62.73286" width="54.36848" y="40.00636" x="260.87137"/>
+  <ellipse id="svg_19" fill="#3d7bd9" ry="17.42579" rx="62.73286" cy="40.00636" cx="288.05561"/>
+ </g>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Introduction": ["using-tracs/motivation", "using-tracs/how-it-works", "using-tracs/key-metrics"],
+    "Getting Started": ["getting-started/installation", "getting-started/viewing-dashboards", "getting-started/making-your-own-dashboard"],
+    "Hosting & Integration": ["hosting/overview", "hosting/integrate-with-your-own-grafana"],
+    "Contributing": ["contributing/contributing"]
+  }
+}
